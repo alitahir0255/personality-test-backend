@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "Backend of the personality test web application.",
-  "main": "index.js",
+  "main": "index.ts",
   "author": "Muhammad Zeeshan",
   "license": "MIT",
   "private": true
