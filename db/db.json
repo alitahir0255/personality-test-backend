@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+      "choices": [
+        {
+          "choice": "Don't dare to interrupt them",
+          "placement": "A",
+          "type": "Introvert"
+        },
+        {
+          "choice": "Think it's more important to give them some of your time; work can wait",
+          "placement": "B",
+          "type": "Extrovert"
+        },
+        {
+          "choice": "Listen, but with only half an ear",
+          "placement": "C",
+          "type": "Introvert"
+        },
+        {
+          "choice": "Interrupt and explain that you are really busy at the moment",
+          "placement": "D",
+          "type": "Extrovert"
+        }
+      ]
+    }
+  ]
+}
