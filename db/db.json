@@ -1,6 +1,7 @@
 {
   "questions": [
     {
+      "id": "SzbPMFpZj9578gDlJcg2l",
       "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
       "choices": [
         {
@@ -20,6 +21,58 @@
         },
         {
           "choice": "Interrupt and explain that you are really busy at the moment",
+          "placement": "D",
+          "type": "Extrovert"
+        }
+      ]
+    },
+    {
+      "id": "rs-cxvlxr33GKagWM8FQ5",
+      "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+      "choices": [
+        {
+          "choice": "Look at your watch every two minutes",
+          "placement": "A",
+          "type": "Introvert"
+        },
+        {
+          "choice": "Bubble with inner anger, but keep quiet",
+          "placement": "B",
+          "type": "Extrovert"
+        },
+        {
+          "choice": "Explain to other equally impatient people in the room that the doctor is always running late",
+          "placement": "C",
+          "type": "Introvert"
+        },
+        {
+          "choice": "Complain in a loud voice, while tapping your foot impatiently",
+          "placement": "D",
+          "type": "Extrovert"
+        }
+      ]
+    },
+    {
+      "id": "cvVuV5lbbo2cGmImh2rtM",
+      "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+      "choices": [
+        {
+          "choice": "Don’t dare contradict them",
+          "placement": "A",
+          "type": "Introvert"
+        },
+        {
+          "choice": "Think that they are obviously right",
+          "placement": "B",
+          "type": "Extrovert"
+        },
+        {
+          "choice": "Defend your own point of view, tooth and nail",
+          "placement": "C",
+          "type": "Introvert"
+        },
+        {
+          "choice": "Continuously interrupt your colleague",
           "placement": "D",
           "type": "Extrovert"
         }
