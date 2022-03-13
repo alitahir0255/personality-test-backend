@@ -1,6 +1,6 @@
 // Load the .env file in the root of the project
 // and initialize values
-import dotenv from "dotenv";
+// import dotenv from "dotenv";
 // Module imports
 import express from "express";
 import { JSONFile, Low } from "lowdb";
@@ -11,7 +11,7 @@ import cors from "cors";
 dotenv.config();
 
 // Load port from environment variables
-const PORT = process.env.PORT || 3000;
+// const PORT = process.env.PORT || 3000;
 
 // Initialize the express application
 const app = express();
@@ -97,6 +97,6 @@ app.patch("/question", async (req, res) => {
 });
 
 // Listen for the server
-app.listen(PORT, () => {
-  console.log(`Running application on port ${PORT}`);
+app.listen(3000, () => {
+  console.log(`Running application on port ${3000}`);
 });
