@@ -8,7 +8,7 @@ import { failure, includesInArr, success } from "./utils/index.js";
 import { nanoid } from "nanoid";
 import cors from "cors";
 
-dotenv.config();
+// dotenv.config();
 
 // Load port from environment variables
 // const PORT = process.env.PORT || 3000;
