@@ -2,7 +2,7 @@
   "questions": [
     {
       "id": "SzbPMFpZj9578gDlJcg2l",
-      "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+      "question": "You’re really busy at work and a colleague is telling you their life story and personal woes.",
       "choices": [
         {
           "choice": "Don't dare to interrupt them",
@@ -28,7 +28,7 @@
     },
     {
       "id": "rs-cxvlxr33GKagWM8FQ5",
-      "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+      "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes.",
       "choices": [
         {
           "choice": "Look at your watch every two minutes",
@@ -54,7 +54,7 @@
     },
     {
       "id": "cvVuV5lbbo2cGmImh2rtM",
-      "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+      "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of.",
       "choices": [
         {
           "choice": "Don’t dare contradict them",
